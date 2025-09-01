@@ -1,0 +1,12 @@
+# Demo Repo 🚀
+
+This is a demo repository to learn GitHub basics.
+
+## Features
+- Example code
+- Demo workflow with GitHub Actions
+- MIT License
+
+## How to Run
+```bash
+node index.js
