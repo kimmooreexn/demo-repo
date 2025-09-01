@@ -1,0 +1,12 @@
+path,size_bytes
+.editorconfig,147
+.github/ISSUE_TEMPLATE/bug_report.yml,297
+.github/ISSUE_TEMPLATE/feature_request.yml,296
+.github/pull_request_template.md,158
+.github/workflows/ci.yml,281
+.gitignore,195
+CONTRIBUTING.md,374
+LICENSE,1066
+README.md,600
+index.js,35
+package.json,254
